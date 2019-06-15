@@ -3333,6 +3333,7 @@ input, select, textarea {
 		border-bottom: solid 5px #f56a6a;
 		padding: 6em 0 1em 0;
 		position: relative;
+		
 	}
 
 		#header > * {
@@ -3341,6 +3342,7 @@ input, select, textarea {
 			-ms-flex: 1;
 			flex: 1;
 			margin-bottom: 0;
+			display: inline;
 		}
 
 		#header .logo {
@@ -3348,10 +3350,12 @@ input, select, textarea {
 			color: inherit;
 			font-family: "Roboto Slab", serif;
 			font-size: 1.125em;
+			
 		}
 
 		#header .icons {
 			text-align: right;
+			
 		}
 
 		@media screen and (max-width: 1680px) {
