@@ -3342,15 +3342,14 @@ input, select, textarea {
 			-ms-flex: 1;
 			flex: 1;
 			margin-bottom: 0;
-			display: inline;
+			
 		}
 
-		#header .logo {
+		#header .quote {
 			border-bottom: 0;
 			color: inherit;
 			font-family: "Roboto Slab", serif;
 			font-size: 1.125em;
-			
 		}
 
 		#header .icons {
@@ -3372,7 +3371,7 @@ input, select, textarea {
 				padding-top: 6.5em;
 			}
 
-				#header .logo {
+				#header .quote {
 					font-size: 1.25em;
 					margin: 0;
 				}
